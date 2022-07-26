@@ -1,12 +1,13 @@
 
-name: cuid
-description: cuid is a library for generating unique collision-resistant IDs optimized for horizontal scaling and performance
-version: 0.1.2
-author: Levi Cook <levicook@gmail.com>
-homepage: https://github.com/levicook/cuid
+name: cuid_nullsafe
+description: cuid is a library for generating unique collision-resistant IDs optimized for horizontal scaling and performance. For with added null safety.
+version: 0.1.2-nullsafe.0
+author: Joseph R. Quinn <quinn.josephr@protonmail.com>
+homepage: https://github.com/quinnjr/cuid-nullsafe
 
 dev_dependencies:
-  test: ^1.6.4
+  test: ^1.21.4
+  analyzer: ^4.3.1
 
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  sdk: '>=2.17.0 <3.0.0'

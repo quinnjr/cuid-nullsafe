@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:cuid/cuid.dart';
+import 'package:cuid_nullsafe/cuid.dart';
 
 void main() {
   test('length', () {

@@ -1,3 +1,6 @@
+## 0.1.2-nullsafe.0
+
+- Updating to Null-Safe Dart.
 
 ## 0.1.2
 
